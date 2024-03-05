@@ -1,6 +1,6 @@
 // ImageBrowser.js
 import React, { useState } from 'react';
-import './ImageBrowser.css'; // Assuming you'll create this CSS file based on the styles you provided
+import './imageBrowser.css'; // Assuming you'll create this CSS file based on the styles you provided
 
 const ImageBrowser = () => {
   // Initialize images array
